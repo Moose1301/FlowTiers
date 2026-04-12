@@ -14,12 +14,12 @@ A mod that displays player stats from FlowPvP.gg in their nametags, tablist and 
 
 ## Requirements
 - Minecraft 1.21-1.21.8 (More versions will be supported shortly)
-- Fabric Loader 0.18.6+
+- Fabric Loader 0.16.0+
 - Fabric API
 - Java 21+
 
 ## How to install
-1. Download the latest release from the [releases page](https://modrinth.com/mod/flowtiers/versions)
+1. Download the latest release from the [modrinth page](https://modrinth.com/mod/flowtiers/versions)
 2. Place the `.jar` file in your `.minecraft/mods` folder (Alternatively in your Launcher's mods location)
 3. Launch Minecraft with Fabric
 
